@@ -17,6 +17,10 @@ namespace SravanRep.Controllers
         {
             return View();
         }
+        public ActionResult Banch2()
+        {
+            return View();
+        }
 
 
     }
